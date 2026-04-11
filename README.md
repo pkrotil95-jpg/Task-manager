@@ -1,5 +1,3 @@
-# Task-manager
-Úkol engeto academy
 # Task Manager
 
 Jednoduchý správce úkolů pro příkazový řádek napsaný v Pythonu. Program umožňuje přidávat, zobrazovat a odstraňovat úkoly přímo v terminálu.
